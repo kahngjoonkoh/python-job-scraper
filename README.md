@@ -6,3 +6,6 @@ It scrapes through : </br>
 * remoteok
 
 Can collate the job searches and save to a csv file to be downloaded by the user.
+
+## Credits
+NomadCoders
